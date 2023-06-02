@@ -1,1 +1,1 @@
-# RemoteFrom3semistrLesson
+# Работа с удалёнными репозиториями
